@@ -70,6 +70,7 @@ A one-page questionnaire to help your team establish effective frontend guidline
 - **Are you using a dependency manager** *(such as [Bower](http://bower.io/) or [Composer](https://getcomposer.org/))*
 - **Are you using any scaffolding tools** *(such as [Yeoman](http://yeoman.io/))*
 - **Are you using any tools to reinforce frontend style** *(such as [Editor Config](http://editorconfig.org/) or [linters](https://github.com/CSSLint/csslint))*?
+- **Are any other specific pieces of software that are needed to work on this project?**
 
 ---------------
 
