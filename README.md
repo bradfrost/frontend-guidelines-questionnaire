@@ -1,5 +1,5 @@
 # Frontend Guidelines Questionnaire
-A one-page questionnaire to help your team establish effective frontend guidelines so that you can write consistent, cohesive code together.
+A one-page questionnaire to help your team establish effective frontend guidelines, so that you can write consistent & cohesive code together.
 
 ## HTML
 ### HTML Principles
