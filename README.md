@@ -1,5 +1,5 @@
 # Frontend Guidelines Questionnaire
-A one-page questionnaire to help your team establish effective frontend guidlines so that you can write consistent, cohesive code together.
+A one-page questionnaire to help your team establish effective frontend guidelines so that you can write consistent, cohesive code together.
 
 ## HTML
 ### HTML Principles
@@ -28,10 +28,10 @@ A one-page questionnaire to help your team establish effective frontend guidline
 
 ### CSS Tools
 - **Is the team using a preprocessor** *(such as [Sass](http://sass-lang.com/) or [Less](http://lesscss.org/))*?
-- **What are the guidelines for using that preprocessor** *(check out [Sass Guidelines](http://sass-guidelin.es/) for insipration)*?
+- **What are the guidelines for using that preprocessor** *(check out [Sass Guidelines](http://sass-guidelin.es/) for inspiration)*?
 - **Are you using a CSS base** *(such as [Normalize](https://necolas.github.io/normalize.css/) or a [reset](http://meyerweb.com/eric/tools/css/reset/))*?
 - **Are you using any CSS postprocessors** *(such as Prefixfree or [Autoprefixer](https://github.com/postcss/autoprefixer))*?
-- **Are there specific CSS techniques you're utilizing** *(such as [crticial CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/))*?
+- **Are there specific CSS techniques you're utilizing** *(such as [critical CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/))*?
 
 ### CSS Frameworks
 - **Is the team using a framework** *(such as [Bootstrap](http://getbootstrap.com/) or [Foundation](http://foundation.zurb.com/))*? If yes, where is the documentation for that framework?
