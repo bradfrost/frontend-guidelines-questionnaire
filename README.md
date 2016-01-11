@@ -47,7 +47,7 @@ A one-page questionnaire to help your team establish effective frontend guidline
 
 ## JavaScript
 
-### JavaScript principles
+### JavaScript Principles
 - **What are some general principles your team should follow when writing JavaScript?** *(See [these](https://github.com/airbnb/javascript) [resources](https://github.com/rwaldron/idiomatic.js) for [inspiration](https://github.com/styleguide/javascript))*
 
 
