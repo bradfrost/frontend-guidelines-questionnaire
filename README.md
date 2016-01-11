@@ -86,7 +86,7 @@ It's important to recognize the difference between ["support" and "optimization"
 
 ## Documentation
 - **Are you using a [pattern library tool](http://styleguides.io/tools.html) to document your front-end architecture**?
-- **Do you have links to internal documentation that would be helpful for team members to have access to**?
+- **Where does your documentation live**? What are the links to the documentation?
 - **Who's responsible for maintaining and governing the documentation**?
 - **What happens when the guidelines are updated**?
 
