@@ -9,7 +9,7 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 ### HTML Tools
 - **Are you using an HTML preprocessor** *(such as [HAML](http://haml.info/), [Jade](http://jade-lang.com/), etc)*?
 - **Are you using a templating engine** *(such as [Mustache](https://mustache.github.io/), [Handlebars](http://handlebarsjs.com/), etc)*?
-- **Does your backend architecture influence the frontend markup in any way** (for example, Wordpress will add `wp-paginate` to a class in your markup)? If so, can you highlight these conventions? 
+- **Does your backend architecture influence the frontend markup in any way** (for example, WordPress will add `wp-paginate` to a class in your markup)? If so, can you highlight these conventions? 
 
 ### HTML Style
 - **Spaces or Tabs?**
@@ -81,6 +81,15 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 
 ---------------
 
+## Version control
+- **What version control system are you using for your frontend code** *(such as [Git](https://git-scm.com/) or [Subversion](https://subversion.apache.org/))*?
+- **Where is your version-controlled code hosted** *(such  as [Github](https://github.com/) or [Bitbucket](https://bitbucket.org/))* ?
+- **Do you use a version control workflow** *(such as [gitflow](http://nvie.com/posts/a-successful-git-branching-model/), [centralized](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow), [feature-branch](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), etc)*?
+- **Who's responsible for managing and governing the version controlled code?**?
+- **Where are issues tracked**?
+
+-----------
+
 ## Support and Optimization
 It's important to recognize the difference between ["support" and "optimization"](http://bradfrost.com/blog/mobile/support-vs-optimization/). You should do your best to support as many environments as possible while simultaneously optimizing for the environments that make the most sense for your business and users. 
 
@@ -99,4 +108,4 @@ It's important to recognize the difference between ["support" and "optimization"
 
 -----------
 
-*For questions, comments, additions, and corrections, please open an issue on Github and/or reach out to [@brad_frost](https://twitter.com/brad_frost) on Twitter.*
+*Feel free to modify or extend (such as adding specific sections for performance, accessibility, etc) this document for your own organization's needs. For questions, comments, additions, and corrections, please open an issue on Github and/or reach out to [@brad_frost](https://twitter.com/brad_frost) on Twitter.*
