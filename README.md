@@ -74,6 +74,13 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 
 ---------------
 
+## Performance
+- **Do you have a performance budget for projects?
+- **How are you measuring your projects' speed *(such as [Pingdom Speed Test](http://tools.pingdom.com/) or [Google PageSpeed](https://developers.google.com/speed/pagespeed/)*?
+- **What techniques are you using to decrease file size *(such as [Gzip](https://css-tricks.com/snippets/htaccess/active-gzip-compression/), [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization))*?
+
+---------------
+
 ## Support and Optimization
 It's important to recognize the difference between ["support" and "optimization"](http://bradfrost.com/blog/mobile/support-vs-optimization/). You should do your best to support as many environments as possible while simultaneously optimizing for the environments that make the most sense for your business and users. 
 
