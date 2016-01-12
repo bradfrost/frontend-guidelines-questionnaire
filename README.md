@@ -9,7 +9,7 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 ### HTML Tools
 - **Are you using an HTML preprocessor** *(such as [HAML](http://haml.info/), [Jade](http://jade-lang.com/), etc)*?
 - **Are you using a templating engine** *(such as [Mustache](https://mustache.github.io/), [Handlebars](http://handlebarsjs.com/), etc)*?
-- **Does your backend architecture influence the frontend markup in any way** (for example, Wordpress will add `wp-paginate` to a class in your markup)? If so, can you highlight these conventions? 
+- **Does your backend architecture influence the frontend markup in any way** (for example, WordPress will add `wp-paginate` to a class in your markup)? If so, can you highlight these conventions? 
 
 ### HTML Style
 - **Spaces or Tabs?**
