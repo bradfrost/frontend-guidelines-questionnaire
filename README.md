@@ -68,14 +68,14 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 
 ## Media
 - **How are you handling icons** *(such as using SVG, icon fonts, etc)*?
-- **Are you using any tools to ** *(such as using SVG, icon fonts, etc)*?
-
+- **How are you handling responsive images? `srcset` * `<picture />`**
+- **Are you using any [tools](https://addyosmani.com/blog/image-optimization-tools/) to optimize and serve images**?
 
 ---------------
 
 ## Fonts
 - **How do you load custom fonts?**
-- **Do you use any tools to help implement custom web fonts** *(such as [Font Squirrel](http://www.fontsquirrel.com/))*
+- **Do you use any tools to help implement web fonts** *(such as [Font Squirrel](http://www.fontsquirrel.com/), etc)*?
 - **Do you use a service to manage and serve custom fonts** *(such as [Fonts.com](http://www.fonts.com/), [Typekit](https://typekit.com/), etc)*?
 
 
@@ -89,7 +89,8 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 ---------------
 
 ## Accessibility
-- **What accessibility-related [tools](http://a11yproject.com/resources.html) are you using?**
+- **Are you following the accessibility recommendations laid out in [this checklist](http://a11yproject.com/checklist.html)**?
+- **What accessibility-related [tools](http://a11yproject.com/resources.html) are you using in your workflow?**
 
 ---------------
 
@@ -118,6 +119,11 @@ It's important to recognize the difference between ["support" and "optimization"
 - **What devices are you *optimizing* for?** 
 - **Are you using a [graded browser support](https://github.com/yui/yui3/wiki/Graded-Browser-Support) system?**
 - **Are there specific components that require [more specific grading](https://www.filamentgroup.com/lab/grade-the-components.html)?** 
+
+-----------
+
+## Localization
+- **Is your website served in different languages?** If so, what considerations do you need to address when localizing for other languages?
 
 -----------
 
