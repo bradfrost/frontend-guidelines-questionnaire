@@ -67,24 +67,29 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 ---------------
 
 ## Media
-- 
+- **How are you handling icons** *(such as using SVG, icon fonts, etc)*?
+- **Are you using any tools to ** *(such as using SVG, icon fonts, etc)*?
 
 
 ---------------
 
 ## Fonts
-- 
+- **How do you load custom fonts?**
+- **Do you use any tools to help implement custom web fonts** *(such as [Font Squirrel](http://www.fontsquirrel.com/))*
+- **Do you use a service to manage and serve custom fonts** *(such as [Fonts.com](http://www.fonts.com/), [Typekit](https://typekit.com/), etc)*?
 
 
 ---------------
 
 ## Performance
-- 
+- **Do you use performance budgets?** If so, how/where are you tracking performance budgets?
+- **What performance-related tools are you using in your workflow?** *(such as [WebPagetest](http://www.webpagetest.org/), [BigRig](https://aerotwist.com/blog/bigrig/) [Speedcurve](https://speedcurve.com/),)*?
+
 
 ---------------
 
 ## Accessibility
-- 
+- **What accessibility-related [tools](http://a11yproject.com/resources.html) are you using?**
 
 ---------------
 
@@ -112,7 +117,12 @@ It's important to recognize the difference between ["support" and "optimization"
 - **What browsers are you *optimizing* for?** 
 - **What devices are you *optimizing* for?** 
 - **Are you using a [graded browser support](https://github.com/yui/yui3/wiki/Graded-Browser-Support) system?**
-- **Are there specific components that require [more specific grading](https://www.filamentgroup.com/lab/grade-the-components.html)?**
+- **Are there specific components that require [more specific grading](https://www.filamentgroup.com/lab/grade-the-components.html)?** 
+
+-----------
+
+## Deployment/Integration
+- **How is your front-end code integrated into a production environment?**
 
 -----------
 
