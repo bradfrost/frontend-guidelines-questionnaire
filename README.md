@@ -68,7 +68,7 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 
 ## Media
 - **How are you handling icons** *(such as using SVG, icon fonts, etc)*?
-- **How are you handling responsive images? `srcset` * `<picture />`**
+- **How are you handling responsive images** *(such as using `srcset` & `<picture />`*?
 - **Are you using any [tools](https://addyosmani.com/blog/image-optimization-tools/) to optimize and serve images**?
 
 ---------------
