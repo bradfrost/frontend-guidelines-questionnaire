@@ -62,7 +62,7 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 *(See [these](https://github.com/airbnb/javascript) [resources](https://github.com/rwaldron/idiomatic.js) for [inspiration](https://github.com/styleguide/javascript))*
 - **Spaces or Tabs?**
 - **What does JS commenting look like?** 
-- [What patterns are you following](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)?
+- **What patterns are you following?** *(See [these](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) [resources](http://shichuan.github.io/javascript-patterns/))*
 
 ---------------
 
