@@ -82,7 +82,7 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 ---------------
 
 ## Performance
-- **Do you use performance budgets?** If so, how/where are you tracking performance budgets?
+- **Do you use performance budgets?** If so, what [metrics](https://timkadlec.com/2014/11/performance-budget-metrics/) are you using to determine budgets? Where are you keeping track of performance budgets?
 - **What performance-related tools are you using in your workflow?** *(such as [WebPagetest](http://www.webpagetest.org/), [BigRig](https://aerotwist.com/blog/bigrig/) [Speedcurve](https://speedcurve.com/),)*?
 
 
