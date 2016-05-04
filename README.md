@@ -23,7 +23,7 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 - **What are some general principles your team should follow when writing CSS?** *(For example, modularity, avoiding long selector strings, etc. See [these](http://cssguidelin.es/) [resources](http://www.yellowshoe.com.au/standards/#css) [for](http://manuals.gravitydept.com/code/css) [inspiration](http://codeguide.co/#css))*
 
 ### CSS Methodology
-- **Is your team using a CSS methodology** *(such as [SMACSS](https://smacss.com/), [BEM](https://en.bem.info/method/), or [OOCSS](http://oocss.org/)*? If yes, where is the documentation for that methodology?
+- **Is your team using a CSS methodology** *(such as [SMACSS](https://smacss.com/), [BEM](https://en.bem.info/method/), or [OOCSS](http://oocss.org/))*? If yes, where is the documentation for that methodology?
 - **Are you deviating from the methodology in any way?** If so, can you highlight these conventions?
 
 ### CSS Tools
@@ -68,7 +68,7 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 
 ## Media
 - **How are you handling icons** *(such as using SVG, icon fonts, etc)*?
-- **How are you handling responsive images** *(such as using `srcset` & `<picture />`*?
+- **How are you handling responsive images** *(such as using `srcset` & `<picture />`)*?
 - **Are you using any [tools](https://addyosmani.com/blog/image-optimization-tools/) to optimize and serve images**?
 
 ---------------
@@ -83,7 +83,7 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 
 ## Performance
 - **Do you use performance budgets?** If so, what [metrics](https://timkadlec.com/2014/11/performance-budget-metrics/) are you using to determine budgets? Where are you keeping track of performance budgets?
-- **How are you measuring your project's speed** *(such as [Pingdom Speed Test](http://tools.pingdom.com/) or [Google PageSpeed](https://developers.google.com/speed/pagespeed/)*?
+- **How are you measuring your project's speed** *(such as [Pingdom Speed Test](http://tools.pingdom.com/) or [Google PageSpeed](https://developers.google.com/speed/pagespeed/))*?
 - **What techniques are you using to decrease file size** *(such as [Gzip](https://css-tricks.com/snippets/htaccess/active-gzip-compression/), [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization))*?
 - **What performance-related tools are you using in your workflow?** *(such as [WebPagetest](http://www.webpagetest.org/), [BigRig](https://aerotwist.com/blog/bigrig/) [Speedcurve](https://speedcurve.com/))*?
 
@@ -91,15 +91,15 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 ---------------
 
 ## Accessibility
-- **Are you following the accessibility recommendations laid out in [this checklist](http://a11yproject.com/checklist.html)**?
+- **Are you following the accessibility recommendations laid out in [this checklist](http://a11yproject.com/checklist.html)?**
 - **What accessibility-related [tools](http://a11yproject.com/resources.html) are you using in your workflow?**
 
 ---------------
 
 ## Tooling
 - **Are you using a task runner** *(such as [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/))*?
-- **Are you using a dependency manager** *(such as [Bower](http://bower.io/) or [Composer](https://getcomposer.org/))*
-- **Are you using any scaffolding tools** *(such as [Yeoman](http://yeoman.io/))*
+- **Are you using a dependency manager** *(such as [Bower](http://bower.io/) or [Composer](https://getcomposer.org/))*?
+- **Are you using any scaffolding tools** *(such as [Yeoman](http://yeoman.io/))*?
 - **Are you using any tools to reinforce frontend style** *(such as [Editor Config](http://editorconfig.org/) or [linters](https://github.com/CSSLint/csslint))*?
 - **Are any other specific pieces of software that are needed to work on this project?**
 
@@ -107,10 +107,10 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 
 ## Version control
 - **What version control system are you using for your frontend code** *(such as [Git](https://git-scm.com/) or [Subversion](https://subversion.apache.org/))*?
-- **Where is your version-controlled code hosted** *(such  as [Github](https://github.com/) or [Bitbucket](https://bitbucket.org/))* ?
+- **Where is your version-controlled code hosted** *(such  as [Github](https://github.com/) or [Bitbucket](https://bitbucket.org/))*?
 - **Do you use a version control workflow** *(such as [gitflow](http://nvie.com/posts/a-successful-git-branching-model/), [centralized](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow), [feature-branch](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), etc)*?
 - **Who's responsible for managing and governing the version controlled code?**?
-- **Where are issues tracked**?
+- **Where are issues tracked?**
 
 -----------
 
@@ -135,10 +135,10 @@ It's important to recognize the difference between ["support" and "optimization"
 -----------
 
 ## Documentation
-- **Are you using a [pattern library tool](http://styleguides.io/tools.html) to document your front-end architecture**?
-- **Where does your documentation live**? What are the links to the documentation?
-- **Who's responsible for maintaining and governing the documentation**?
-- **What happens when the guidelines are updated**?
+- **Are you using a [pattern library tool](http://styleguides.io/tools.html) to document your front-end architecture?**
+- **Where does your documentation live?** What are the links to the documentation?
+- **Who's responsible for maintaining and governing the documentation?**
+- **What happens when the guidelines are updated?**
 
 -----------
 
