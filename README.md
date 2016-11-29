@@ -105,6 +105,13 @@ A one-page questionnaire to help your team establish effective frontend guidelin
 
 ---------------
 
+## Performance
+- **Do you have a performance budget for projects?
+- **How are you measuring your projects' speed *(such as [Pingdom Speed Test](http://tools.pingdom.com/) or [Google PageSpeed](https://developers.google.com/speed/pagespeed/)*?
+- **What techniques are you using to decrease file size *(such as [Gzip](https://css-tricks.com/snippets/htaccess/active-gzip-compression/), [Image Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization))*?
+
+---------------
+
 ## Version control
 - **What version control system are you using for your frontend code** *(such as [Git](https://git-scm.com/) or [Subversion](https://subversion.apache.org/))*?
 - **Where is your version-controlled code hosted** *(such  as [Github](https://github.com/) or [Bitbucket](https://bitbucket.org/))*?
